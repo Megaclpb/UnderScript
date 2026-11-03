@@ -43,5 +43,10 @@
     "name": "Updating Descriptions",
     "author": "clpb",
     "updateURL": "https://gist.github.com/Megaclpb/6ef51dcd8c066f3f539394effd4123b9/raw/updatingdescription.user.js"
+  },
+  {
+    "name": "Better Patchnotes",
+    "author": "clpb",
+    "updateURL": "https://gist.github.com/Megaclpb/c25f261efcfc13d2dc37622a12538c78/raw/betterpatchnotes.user.js"
   }
 ]
